@@ -1,4 +1,4 @@
-local maker = loadstring(game:HttpGet("https://github.com/slf0Dev/my-ui-library-making-utility/raw/main/InstanceMaker.lua"))();
+local maker = loadstring(game:HttpGet("https://github.com/tatibird/Impact-Client/blob/main/InstanceMaker.lua"))();
 local make = maker.Instance
 
 local x = 750
