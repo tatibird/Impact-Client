@@ -1,1 +1,14 @@
+List = {
+	
+	Owner = {
+		1723262780;
+	};
+	
+	
+	Special = {
+		562994998;
+	}
+	
+}
 
+return List
